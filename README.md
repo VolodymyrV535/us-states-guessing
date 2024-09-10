@@ -1,0 +1,2 @@
+- try to guess US states names,
+- if you wish to finish the game and to save "not guessed" states in the .csv file >>> type exit
